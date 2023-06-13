@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Fortnite/static/css/main.91f07ed5.css",
-    "main.js": "/Fortnite/static/js/main.e649ef18.js",
-    "static/media/Mulish-Italic-VariableFont_wght.ttf": "/Fortnite/static/media/Mulish-Italic-VariableFont_wght.8facd12ec40a9e4fb30c.ttf",
-    "static/media/fortnitebattlefest.ttf": "/Fortnite/static/media/fortnitebattlefest.9a279d22f71f6f08e0e5.ttf",
-    "static/media/ethereum.png": "/Fortnite/static/media/ethereum.bd8d6da4537dae3291db.png",
-    "index.html": "/Fortnite/index.html",
-    "main.91f07ed5.css.map": "/Fortnite/static/css/main.91f07ed5.css.map",
-    "main.e649ef18.js.map": "/Fortnite/static/js/main.e649ef18.js.map"
+    "main.css": "/react_basket/static/css/main.4809d755.css",
+    "main.js": "/react_basket/static/js/main.50f01616.js",
+    "static/media/Mulish-Italic-VariableFont_wght.ttf": "/react_basket/static/media/Mulish-Italic-VariableFont_wght.8facd12ec40a9e4fb30c.ttf",
+    "static/media/fortnitebattlefest.ttf": "/react_basket/static/media/fortnitebattlefest.9a279d22f71f6f08e0e5.ttf",
+    "static/media/ethereum.png": "/react_basket/static/media/ethereum.bd8d6da4537dae3291db.png",
+    "index.html": "/react_basket/index.html",
+    "main.4809d755.css.map": "/react_basket/static/css/main.4809d755.css.map",
+    "main.50f01616.js.map": "/react_basket/static/js/main.50f01616.js.map"
   },
   "entrypoints": [
-    "static/css/main.91f07ed5.css",
-    "static/js/main.e649ef18.js"
+    "static/css/main.4809d755.css",
+    "static/js/main.50f01616.js"
   ]
 }
