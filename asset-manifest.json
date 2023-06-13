@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fortnite/static/css/main.91f07ed5.css",
+    "main.js": "/Fortnite/static/js/main.e649ef18.js",
+    "static/media/Mulish-Italic-VariableFont_wght.ttf": "/Fortnite/static/media/Mulish-Italic-VariableFont_wght.8facd12ec40a9e4fb30c.ttf",
+    "static/media/fortnitebattlefest.ttf": "/Fortnite/static/media/fortnitebattlefest.9a279d22f71f6f08e0e5.ttf",
+    "static/media/ethereum.png": "/Fortnite/static/media/ethereum.bd8d6da4537dae3291db.png",
+    "index.html": "/Fortnite/index.html",
+    "main.91f07ed5.css.map": "/Fortnite/static/css/main.91f07ed5.css.map",
+    "main.e649ef18.js.map": "/Fortnite/static/js/main.e649ef18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f07ed5.css",
+    "static/js/main.e649ef18.js"
+  ]
+}
